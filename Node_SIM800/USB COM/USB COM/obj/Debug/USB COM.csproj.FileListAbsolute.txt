@@ -1,0 +1,20 @@
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\bin\Debug\USB COM.exe.config
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\bin\Debug\USB COM.exe
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\bin\Debug\USB COM.pdb
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\obj\Debug\USB COM.csprojAssemblyReference.cache
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\obj\Debug\USB_COM.Form1.resources
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\obj\Debug\USB_COM.Properties.Resources.resources
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\obj\Debug\USB COM.csproj.GenerateResource.cache
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\obj\Debug\USB COM.csproj.CoreCompileInputs.cache
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\obj\Debug\USB COM.exe
+C:\Users\Ng-Hieu\source\repos\USB COM\USB COM\obj\Debug\USB COM.pdb
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\bin\Debug\USB COM.exe.config
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\bin\Debug\USB COM.exe
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\bin\Debug\USB COM.pdb
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\obj\Debug\USB COM.csprojAssemblyReference.cache
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\obj\Debug\USB_COM.Form1.resources
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\obj\Debug\USB_COM.Properties.Resources.resources
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\obj\Debug\USB COM.csproj.GenerateResource.cache
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\obj\Debug\USB COM.csproj.CoreCompileInputs.cache
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\obj\Debug\USB COM.exe
+C:\Users\Ng-Hieu\source\repos\Copy\USB COM\USB COM\obj\Debug\USB COM.pdb
